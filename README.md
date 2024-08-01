@@ -7,9 +7,8 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma do [DevClub](https://aulas.devclub.com.br/m/home)
 
-Projeto com o objetivo de gerar a página inicial do Instagram.
   
-<a href="https://frontend-instagram.netlify.app/"> 🤳🏻 Clique aqui para acessar o site</a>
+<a href="https://acesseseuinsta.netlify.app/"> 🤳🏻 Clique aqui para acessar o site</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -19,7 +18,7 @@ Projeto com o objetivo de gerar a página inicial do Instagram.
 
 ## ✨ Como foi feito ?
 
-- Projeto utilizando HTML, CSS e JavaScript,
+- Projeto utilizando HTML, CSS;
 - Postado pelo site do Netlify.
 
 
