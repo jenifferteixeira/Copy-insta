@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
+    <img width="200" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
 </p>
 
 
@@ -25,7 +25,9 @@
 ## 🚀 Resultado
 
 Página inicial semelhante ao do Instagram, com transição de imagens na tela do celular.
-
+<p>
+    <img width="500" src="https://github.com/jenifferteixeira/Copy-insta/blob/main/assets/tela.JPG">
+</p>
   
 
 ## 👨‍💻 Expert
